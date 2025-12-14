@@ -37,7 +37,6 @@ header{
   background-repeat: no-repeat;
   max-width: 1440px;
   display: block;
-  border: 2px solid black;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -437,7 +436,6 @@ header{
   }
 
   .hero{
-    border: 2px solid black;
     margin-top: 1rem;
   }
 
